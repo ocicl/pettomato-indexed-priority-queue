@@ -1,0 +1,10 @@
+* pettomato-indexed-priority-queue
+
+A binary heap based priority queue implementation with efficient support for find, update, replace, and delete operations.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/austinhaas/pettomato-indexed-priority-queue.git   |
+| commit  | {"messa  |
+| systems | pettomato-indexed-priority-queue |
+|---------+-------------------------------------------|
+
