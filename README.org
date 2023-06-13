@@ -4,7 +4,7 @@ A binary heap based priority queue implementation with efficient support for fin
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/austinhaas/pettomato-indexed-priority-queue.git   |
-| commit  | {"messa  |
+| commit  | 3e01834  |
 | systems | pettomato-indexed-priority-queue |
 |---------+-------------------------------------------|
 
